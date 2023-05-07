@@ -43,7 +43,7 @@ class App extends React.Component {
               Stay tuned for more updates. Shoot us an email if you're curious.
             </p>
           </div>
-          <a href="mailto:pasang.syangtan24@gmail.com">
+          <a href="mailto:pasang.syangtan@wavesinnauka.com.np">
             <div className="cta">Send us an email</div>
           </a>
         </div>
