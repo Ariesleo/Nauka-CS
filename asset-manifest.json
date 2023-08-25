@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fa35ce8.css",
-    "main.js": "/static/js/main.1184175c.js",
+    "main.css": "/static/css/main.33c23c3e.css",
+    "main.js": "/static/js/main.0eb3ad8b.js",
+    "static/media/g20.jpg": "/static/media/g20.cbcab9431a365cb59246.jpg",
     "static/media/IBMPlexSans-MediumItalic.ttf": "/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
     "static/media/IBMPlexSans-BoldItalic.ttf": "/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
     "static/media/IBMPlexSans-Italic.ttf": "/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
@@ -9,14 +10,15 @@
     "static/media/IBMPlexSans-Regular.ttf": "/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
     "static/media/IBMPlexSans-Bold.ttf": "/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
     "static/media/nauka1.png": "/static/media/nauka1.a881c4f9b1495ba57f4d.png",
-    "static/media/linkedIn.svg": "/static/media/linkedIn.2eda7bddaacee15c44494bb63ca94165.svg",
+    "static/media/nepal.gif": "/static/media/nepal.9bcf073455d67e167d57.gif",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.fe8721c9a6b838941416b840c12455b6.svg",
     "index.html": "/index.html",
-    "static/media/facebook.svg": "/static/media/facebook.6c340b9530b1ff951b5e04fcf437f021.svg",
-    "main.7fa35ce8.css.map": "/static/css/main.7fa35ce8.css.map",
-    "main.1184175c.js.map": "/static/js/main.1184175c.js.map"
+    "static/media/facebook.svg": "/static/media/facebook.df18c75cafac73d45aa0b58e6a4a24ef.svg",
+    "main.33c23c3e.css.map": "/static/css/main.33c23c3e.css.map",
+    "main.0eb3ad8b.js.map": "/static/js/main.0eb3ad8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fa35ce8.css",
-    "static/js/main.1184175c.js"
+    "static/css/main.33c23c3e.css",
+    "static/js/main.0eb3ad8b.js"
   ]
 }
