@@ -5,15 +5,19 @@
   min-height: 512px;
   box-shadow: 0px 35px 70px 0px rgba(255, 163, 125, 0.65),
     0px 30px 40px -10px rgba(255, 100, 124, 0.55);
-  background: linear-gradient(
+  /* background: linear-gradient(
     180deg,
     rgba(255, 163, 125, 1) 0%,
     rgba(255, 99, 124, 1) 100%
-  );
+  ); */
   /* background: linear-gradient(180deg, rgba(154, 149, 255, 1) 0%, rgba(71, 199, 255, 1) 100%); */
   /* background: linear-gradient(180deg, #6b5b95 0%, #00a8cc 100%); */
   /* background: linear-gradient(180deg, #0d1117 0%, #161b22 100%); */
   /* border-radius: 10px; */
+  background-image: url('./assets//images/g20.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   display: flex;
   flex-direction: column;
 }
